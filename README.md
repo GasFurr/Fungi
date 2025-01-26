@@ -1,2 +1,2 @@
 # MushromUnion
-Psychochedelic game about mushrooms, magic, tehcnology and postap;
+Psychochedelic game about mushrooms, magiс and technology written on rust.
