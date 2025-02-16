@@ -1,2 +1,2 @@
-# Mushrom Union
-Psychochedelic game about mushrooms, magiс and technology written on rust.
+# Fungi Game Engine
+WIP game engine written in rust using Nannou framework.
